@@ -13,7 +13,7 @@
   <a target="_blank" href="https://t.me/sintembe"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.youtube.com/channel/UC4mIMZhNbSFzl38eE_xGJcA"><img
-    src="http://pngimg.com/uploads/instagram/instagram_PNG9.png"/></a>&nbsp;&nbsp;&nbsp;
+    style='width: 40px, height: 40px' src="http://pngimg.com/uploads/instagram/instagram_PNG9.png"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">My skills</h2>
@@ -45,7 +45,6 @@
   ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
   ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
   ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
-  ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
   ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
 
