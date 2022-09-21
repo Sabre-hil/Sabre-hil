@@ -1,6 +1,6 @@
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
-  <samp>My name is Adam, I'm from Moscow! <br> <br> I am a Frontend JavaScript developer. 😎
+  <samp>My name is Khizir, I'm from Moscow! <br> <br> I am a Frontend JavaScript developer. 😎
   </samp>
   <br> <br>
 </p>
@@ -23,9 +23,7 @@
 <div align="center">
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-  ![NextJs](https://img.shields.io/badge/next-20232A?style=for-the-badge&logo=next.js)
   ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
   ![ReactQuery](https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=reactquery)
   ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
