@@ -10,7 +10,7 @@
 <p align="center" align='right'>
   <a target="_blank" href="hizirabdeev@gmailc.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/balkoev"><img
+  <a target="_blank" href="https://t.me/sintembe"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.youtube.com/channel/UC4mIMZhNbSFzl38eE_xGJcA"><img
     src="https://img.shields.io/youtube/channel/subscribers/UC4mIMZhNbSFzl38eE_xGJcA?style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;
