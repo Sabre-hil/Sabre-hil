@@ -1,4 +1,4 @@
-<h2 align="center">Hi there!😎</h2>
+<h2 align="center">Hi there!🤙</h2>
 <p align="center">
   <samp>My name is Khizir, I'm from Moscow! <br> <br> I am a Frontend JavaScript developer. 😎
   </samp>
