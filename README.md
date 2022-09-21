@@ -12,8 +12,6 @@
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://t.me/sintembe"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.youtube.com/channel/UC4mIMZhNbSFzl38eE_xGJcA"><img
-    style='width: 40px, height: 40px' src="http://pngimg.com/uploads/instagram/instagram_PNG9.png"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">My skills</h2>
