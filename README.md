@@ -49,26 +49,3 @@
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
 
 </div>
-
-<div align="center">
-
-  <br></br>
-
-  ![balkoev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=balkoev&theme=radical)
-  
-  <br></br>
-
-  ![balkoev's github streak](https://github-readme-streak-stats.herokuapp.com/?user=balkoev&theme=radical)
-  
-  <br></br>
-
-  ![balkoev's github
-  stats](https://github-readme-stats.vercel.app/api?username=balkoev&show_icons=true&theme=radical&include_all_commits=true)
-  
-  <br></br>
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=balkoev)
-  
-  <br></br>
-
-</div>
